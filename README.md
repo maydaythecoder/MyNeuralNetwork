@@ -30,7 +30,7 @@ MyNeuralNetwork is a NumPy-only sandbox for experimenting with fully-connected n
 Verify your environment and watch the network train on the synthetic dataset:
 
 ```bash
-cd /Users/muhyadinmohamed/Documents/Development/Python/MyNeuralNetwork
+cd MyNeuralNetwork
 source venv/bin/activate
 python -m structure.network
 ```
