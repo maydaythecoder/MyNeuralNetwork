@@ -1,8 +1,8 @@
-# RecursiveNeuralNetwork
+# MyNeuralNetwork
 
 ## Overview
 
-RecursiveNeuralNetwork is a NumPy-only sandbox for experimenting with fully-connected neural networks from first principles. It exposes composable modules for activations, losses, layers, and optimizers so you can trace every tensor flowing through the system without relying on an automatic differentiation framework.
+MyNeuralNetwork is a NumPy-only sandbox for experimenting with fully-connected neural networks from first principles. It exposes composable modules for activations, losses, layers, and optimizers so you can trace every tensor flowing through the system without relying on an automatic differentiation framework.
 
 ## Key Features
 
@@ -30,7 +30,7 @@ RecursiveNeuralNetwork is a NumPy-only sandbox for experimenting with fully-conn
 Verify your environment and watch the network train on the synthetic dataset:
 
 ```bash
-cd /Users/muhyadinmohamed/Documents/Development/Python/RecursiveNeuralNetwork
+cd /Users/muhyadinmohamed/Documents/Development/Python/MyNeuralNetwork
 source venv/bin/activate
 python -m structure.network
 ```

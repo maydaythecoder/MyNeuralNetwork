@@ -1,6 +1,6 @@
 # Learning Roadmap
 
-Welcome to the guided tour of the recursive neural network project. These notes assume you are comfortable with basic Python (functions, lists, NumPy arrays) and want a structured path from the smallest building blocks up to the full training loop.
+Welcome to the guided tour of the dense neural network project. These notes assume you are comfortable with basic Python (functions, lists, NumPy arrays) and want a structured path from the smallest building blocks up to the full training loop.
 
 - Start at `activation-functions.md` to see how individual math functions shape neuron outputs.
 - Move on to `loss-functions.md` to learn how the network measures its mistakes.
